@@ -6,8 +6,6 @@ use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\Cookie\CookieJar;
 use GuzzleHttp\Exception\RequestException;
 
-require 'vendor/autoload.php';
-
 class Client
 {
     private string $baseUrl;
