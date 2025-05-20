@@ -1,0 +1,19 @@
+{
+    "name": "toosmart/file-store-sdk",
+    "description": "Interface to use file-store api",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Toosmart\\FileStoreSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "remig",
+            "email": "remi.g@toosmart.io"
+        }
+    ]
+}
