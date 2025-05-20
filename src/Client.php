@@ -1,6 +1,6 @@
 <?php
 
-namespace Toosmart\FileStoreSdk;
+namespace TooSmart\FileStoreSdk;
 
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\Cookie\CookieJar;

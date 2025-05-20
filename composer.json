@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Toosmart\\FileStoreSdk\\": "src/"
+            "TooSmart\\FileStoreSdk\\": "src/"
         }
     },
     "authors": [
