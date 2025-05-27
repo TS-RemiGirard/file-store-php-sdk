@@ -1,10 +1,10 @@
 <?php
 
-namespace TooSmart\Wireframe\TooSmart\FileStoreSdk;
+namespace TooSmart\FileStoreSdk;
 
-use TooSmart\Wireframe\GuzzleHttp\Client as GuzzleClient;
-use TooSmart\Wireframe\GuzzleHttp\Cookie\CookieJar;
-use TooSmart\Wireframe\GuzzleHttp\Exception\RequestException;
+use GuzzleHttp\Client as GuzzleClient;
+use GuzzleHttp\Cookie\CookieJar;
+use GuzzleHttp\Exception\RequestException;
 
 /**
  * FileStoreSdk Client for interacting with the TooSmart Object Storage API.
