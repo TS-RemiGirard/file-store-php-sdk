@@ -22,7 +22,7 @@ Easily authenticate, upload, and download files from your TooSmart storage bucke
 ### Install via Composer (recommended):
 
 ```bash
-composer require toosmart/wireframe-filestoresdk
+composer require oosmart/file-store-sdk
 ```
 
 Or manually include the SDK and its dependencies in your project.
