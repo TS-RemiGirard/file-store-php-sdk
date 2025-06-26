@@ -21,16 +21,16 @@ Easily authenticate, upload, and download files from your TooSmart storage bucke
 ## Installation
 ### Install via Composer (recommended):
 
-bash
+```bash
 composer require toosmart/wireframe-filestoresdk
-
+```
 
 Or manually include the SDK and its dependencies in your project.
 
 ## Usage
 1. Initialize the Client
 ```php
-use TooSmart\Wireframe\TooSmart\FileStoreSdk\Client;
+use TooSmart\FileStoreSdk\Client;
 
 $client = new Client('https://your-filestore-api.url', 'your-api-key');
 ```
